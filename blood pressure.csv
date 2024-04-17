@@ -1,0 +1,181 @@
+﻿Participant,Drug,Time,Blood Pressure
+1,New,Baseline,141.73
+2,New,Baseline,142.06
+3,New,Baseline,141.8
+4,New,Baseline,141.05
+5,New,Baseline,142.31
+6,New,Baseline,141.98
+7,New,Baseline,141.95
+8,New,Baseline,141.63
+9,New,Baseline,142.56
+10,New,Baseline,141.23
+11,New,Baseline,141.48
+12,New,Baseline,141.1
+13,New,Baseline,141.45
+14,New,Baseline,141.79
+15,New,Baseline,142.4
+16,New,Baseline,142.52
+17,New,Baseline,142.51
+18,New,Baseline,141.57
+19,New,Baseline,141.14
+20,New,Baseline,142.16
+1,New,One month,137.83
+2,New,One month,137.05
+3,New,One month,137.57
+4,New,One month,136.65
+5,New,One month,136.37
+6,New,One month,137.33
+7,New,One month,138.13
+8,New,One month,136.82
+9,New,One month,136.65
+10,New,One month,136.26
+11,New,One month,137.53
+12,New,One month,136.08
+13,New,One month,136.85
+14,New,One month,136.45
+15,New,One month,136.8
+16,New,One month,137.87
+17,New,One month,136.87
+18,New,One month,138.01
+19,New,One month,135.4
+20,New,One month,137.66
+1,New,Two months,134.05
+2,New,Two months,134.83
+3,New,Two months,133.37
+4,New,Two months,136.59
+5,New,Two months,132.2
+6,New,Two months,134.57
+7,New,Two months,135.52
+8,New,Two months,132.98
+9,New,Two months,133.57
+10,New,Two months,133.83
+11,New,Two months,134.59
+12,New,Two months,133.41
+13,New,Two months,133.96
+14,New,Two months,133.44
+15,New,Two months,134.07
+16,New,Two months,136
+17,New,Two months,134.68
+18,New,Two months,132.62
+19,New,Two months,133.05
+20,New,Two months,133.83
+21,Old,Baseline,142.28
+22,Old,Baseline,142.34
+23,Old,Baseline,141.13
+24,Old,Baseline,141.77
+25,Old,Baseline,141.1
+26,Old,Baseline,141.98
+27,Old,Baseline,140.96
+28,Old,Baseline,142.28
+29,Old,Baseline,142.15
+30,Old,Baseline,142
+31,Old,Baseline,141.44
+32,Old,Baseline,142.38
+33,Old,Baseline,142.13
+34,Old,Baseline,140.95
+35,Old,Baseline,141.81
+36,Old,Baseline,141.56
+37,Old,Baseline,142.09
+38,Old,Baseline,142.59
+39,Old,Baseline,141.94
+40,Old,Baseline,142.03
+21,Old,One month,133.89
+22,Old,One month,135.49
+23,Old,One month,135.78
+24,Old,One month,135.64
+25,Old,One month,135.22
+26,Old,One month,134.9
+27,Old,One month,135.53
+28,Old,One month,136.04
+29,Old,One month,136.33
+30,Old,One month,135.88
+31,Old,One month,135.69
+32,Old,One month,135.15
+33,Old,One month,136.66
+34,Old,One month,136.35
+35,Old,One month,136.58
+36,Old,One month,136.6
+37,Old,One month,136.65
+38,Old,One month,137.09
+39,Old,One month,135.75
+40,Old,One month,136.4
+21,Old,Two months,130.32
+22,Old,Two months,131.05
+23,Old,Two months,130.23
+24,Old,Two months,129.95
+25,Old,Two months,131.18
+26,Old,Two months,129.04
+27,Old,Two months,131.8
+28,Old,Two months,129.65
+29,Old,Two months,128.4
+30,Old,Two months,131.3
+31,Old,Two months,130.37
+32,Old,Two months,130.25
+33,Old,Two months,129.21
+34,Old,Two months,130.84
+35,Old,Two months,129.92
+36,Old,Two months,130.45
+37,Old,Two months,129.28
+38,Old,Two months,129.86
+39,Old,Two months,130.43
+40,Old,Two months,128.46
+41,None,Baseline,142.86
+42,None,Baseline,141.59
+43,None,Baseline,141.81
+44,None,Baseline,141.7
+45,None,Baseline,142.11
+46,None,Baseline,142.06
+47,None,Baseline,141.88
+48,None,Baseline,142.29
+49,None,Baseline,141.83
+50,None,Baseline,141.52
+51,None,Baseline,142.14
+52,None,Baseline,141.82
+53,None,Baseline,141.91
+54,None,Baseline,141.89
+55,None,Baseline,141.88
+56,None,Baseline,142.16
+57,None,Baseline,142.02
+58,None,Baseline,141.62
+59,None,Baseline,141.88
+60,None,Baseline,142.24
+41,None,One month,141.03
+42,None,One month,140.29
+43,None,One month,140.27
+44,None,One month,140.38
+45,None,One month,139.51
+46,None,One month,139.49
+47,None,One month,141.3
+48,None,One month,139.13
+49,None,One month,140.57
+50,None,One month,139.31
+51,None,One month,140.01
+52,None,One month,140.06
+53,None,One month,139.55
+54,None,One month,142.34
+55,None,One month,140.16
+56,None,One month,138.97
+57,None,One month,139.4
+58,None,One month,140.3
+59,None,One month,140.17
+60,None,One month,140.42
+41,None,Two months,141.22
+42,None,Two months,140.53
+43,None,Two months,141.66
+44,None,Two months,140.71
+45,None,Two months,141.58
+46,None,Two months,141.58
+47,None,Two months,141.41
+48,None,Two months,142.64
+49,None,Two months,141.85
+50,None,Two months,141.17
+51,None,Two months,140.72
+52,None,Two months,141.27
+53,None,Two months,141.24
+54,None,Two months,141.63
+55,None,Two months,141.06
+56,None,Two months,141
+57,None,Two months,140.19
+58,None,Two months,140.94
+59,None,Two months,140.53
+60,None,Two months,141.29
